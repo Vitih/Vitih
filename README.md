@@ -85,7 +85,7 @@
  
  <details close>
  <summary><h4>🏆 Github Awards!</h4></summary>
- <img src="https://github-profile-trophy.vercel.app/?username=Vishal-Beep136&margin-w=10&margin-h=10" alt="Vishal Beep" />  
+ <img src="https://github-profile-trophy.vercel.app/?username=Vitih&margin-w=10&margin-h=10" alt="Vitih" />  
  </details>
 
  #### Quote Of The Page ✌
@@ -94,7 +94,7 @@
 
 #### Github Activity Graph 📊
 
-[![Vishal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vishal-beep136&bg_color=e0e6ff&color=385dff&line=0051ff&point=0051ff&area=true&hide_border=true&radius=25)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vishal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vitih&bg_color=e0e6ff&color=385dff&line=0051ff&point=0051ff&area=true&hide_border=true&radius=25)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
