@@ -2,19 +2,19 @@
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; Welcome to Vishal's profile! &nbsp;
+  &nbsp; Welcome to Vitih's profile! &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 
 [![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hey!+It's+Me!;I'm+a++Android+Developer;I'm+a+Web+Developer;I+love+Java+and+Javascript+;I+Like+React+Too)](https://git.io/typing-svg)
 
- #### ✋ Hi There, I'm <b><i>Vishal!</i></b>
+ #### ✋ Hi There, I'm <b><i>Vitih!</i></b>
 
- I ❤ Android, Web Developement and Pentesting
+ I ❤ Android, Web Developement and Discord Bot Developer
  
  You can find me in StackOverflow too
  
- <a href="https://stackoverflow.com/users/15739040/vishal-beep"><img src="https://stackoverflow.com/users/flair/15739040.png" width="255" alt="profile for Vishal Beep at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Vishal Beep at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+ <a href="https://stackoverflow.com/users/22055784/vitih?tab=profile"><img src="https://stackoverflow.com/users/flair/15739040.png" width="255" alt="profile for Vishal Beep at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Vitih Beep at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
  
   #### Github Stats ⚡
