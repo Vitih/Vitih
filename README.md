@@ -10,7 +10,7 @@
 
  #### ✋ Hi There, I'm <b><i>Vitih!</i></b>
 
- I ❤ Android, Web Developement and Discord Bot Developer
+ Web Developement and Discord Bot Developer
  
  You can find me in StackOverflow too
  
