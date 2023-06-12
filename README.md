@@ -20,7 +20,7 @@
   #### Github Stats ⚡
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vishal-beep136&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&custom_title=Stats" height="192px"/>
+  <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vitih&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&custom_title=Stats" height="192px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Vitih's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitih&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
@@ -87,7 +87,7 @@
 
 #### Github Activity Graph 📊
 
-[![Vitih's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vitih&bg_color=e0e6ff&color=385dff&line=0051ff&point=0051ff&area=true&hide_border=true&radius=25)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vitih's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vitih&bg_color=e0e6ff&color=385dff&line=0051ff&point=0051ff&area=true&hide_border=true&radius=25)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
