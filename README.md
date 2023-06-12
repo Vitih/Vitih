@@ -35,7 +35,7 @@
    <a href="http://github-readme-streak-stats.herokuapp.com">
      <img alt="streaks" src="http://github-readme-streak-stats.herokuapp.com?user=Vishal-beep136&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
   </a>
-  <img src="https://tenor.com/pt-BR/view/luffy-mugen-transparent-gif-20044197" width="200px"/>
+  <img src="https://github.com/Vitih/Vitih/assets/136125623/0c1dd3da-cac7-4012-a0d1-032966c96378" width="200px"/>
   </p>
  <br>
  
