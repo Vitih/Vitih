@@ -10,11 +10,11 @@
 
  #### ✋ Hi There, I'm <b><i>Vitih!</i></b>
 
- Web Developement and Discord Bot Developer
+ Web Developement, Discord Bot Developer And App Developer
  
  You can find me in StackOverflow too
  
- <a href="https://stackoverflow.com/users/22055784/vitih"><img src="https://stackoverflow.com/users/flair/15739040.png" width="255" alt="profile for Vitih at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Vitih at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+ <a href="https://stackoverflow.com/users/22055784/vitih"><img src="https://stackoverflow.com/users/flair/22055784.png" width="255" alt="profile for Vitih at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Vitih at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
  
   #### Github Stats ⚡
@@ -45,9 +45,7 @@
    <p>
    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
