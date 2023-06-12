@@ -6,7 +6,7 @@
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 
-[![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hey!+It's+Me!;I'm+a++Android+Developer;I'm+a+Web+Developer;I+love+Java+and+Javascript+;I+Like+React+Too)](https://git.io/typing-svg)
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hey!+It's+Me!;I'm+a++Web+Developer;I'm+a+Discord+Bot+Developer;I+love+Python+and+Javascript+;I+Like+React+Too)](https://git.io/typing-svg)
 
  #### ✋ Hi There, I'm <b><i>Vitih!</i></b>
 
@@ -43,7 +43,6 @@
    <summary><h4>⚔ My favorite tools</h4></summary>
    <h5>Programming Languages & Markup Languages</h5>
    <p>
-   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -85,10 +84,6 @@
  <summary><h4>🏆 Github Awards!</h4></summary>
  <img src="https://github-profile-trophy.vercel.app/?username=Vitih&margin-w=10&margin-h=10" alt="Vitih" />  
  </details>
-
- #### Quote Of The Page ✌
- 
-[![Quotify](https://github-readme-quotify.vercel.app/api?mode=mixed&type=horizontal&theme=dracula)](https://github.com/Vishal-beep136/github-readme-quotify)
 
 #### Github Activity Graph 📊
 
